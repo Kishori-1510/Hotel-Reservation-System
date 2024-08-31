@@ -1,5 +1,9 @@
 # Hotel-Reservation-System
-This is a complete application for Hotel Management System. The source code contain advance programming specially in using SQL Language.This project provide the feature of
+This is a complete application for Hotel Management System. The source code contain advance programming specially in using SQL Language.
+Create the Database hotel_db.
+Created the Reservation Table.
+
+This project provide the feature of
 1.Guest Reservation 
 2.View Reservation
 3.Get Room Number
